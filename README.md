@@ -1,4 +1,3 @@
-# my-luncher
 ┌───────────────────────────────────────────────────────────────────────────┐
 │                         Android System & Hardware                         │
 │  PackageManager · CameraManager (Torch) · AudioManager · BatteryManager   │
